@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "fordnox",
+      "authorEmail": "andrius.putna@gmail.com",
+      "authorUrl": "https://github.com/fordnox/hosting"
+    }
+  }
+}
