@@ -21,8 +21,8 @@ Apache-2.0 © [fordnox](https://github.com/fordnox/hosting)
 
 [npm-image]: https://badge.fury.io/js/hosting.svg
 [npm-url]: https://npmjs.org/package/hosting
-[travis-image]: https://travis-ci.com/fordnox/hosting.svg?branch=master
-[travis-url]: https://travis-ci.com/fordnox/hosting
+[travis-image]: https://travis-ci.org/fordnox/hosting.svg?branch=master
+[travis-url]: https://travis-ci.org/fordnox/hosting
 [daviddm-image]: https://david-dm.org/fordnox/hosting.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/fordnox/hosting
 [coveralls-image]: https://coveralls.io/repos/fordnox/hosting/badge.svg
