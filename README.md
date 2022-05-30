@@ -1,4 +1,5 @@
 # hosting [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+
 > The easiest way to deploy websites
 
 ## Installation
@@ -10,14 +11,14 @@ $ npm install --save hosting
 ## Usage
 
 ```js
-const hosting = require('hosting');
+const hosting = require("hosting");
 
-hosting('Rainbow');
+hosting("Rainbow");
 ```
+
 ## License
 
 Apache-2.0 © [fordnox](https://github.com/fordnox/hosting)
-
 
 [npm-image]: https://badge.fury.io/js/hosting.svg
 [npm-url]: https://npmjs.org/package/hosting
